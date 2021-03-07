@@ -3,7 +3,7 @@
 ![1](https://user-images.githubusercontent.com/74709621/110247952-c5bcf000-7f7f-11eb-9e6e-ad2fa2c61b6c.PNG)
 
 
-![Uploading Ekran Görüntüsü (241).png…]()
+![Ekran Görüntüsü (241)](https://user-images.githubusercontent.com/74709621/110248133-a4103880-7f80-11eb-91c3-18657daee157.png)
 
 
 ![Ekran Görüntüsü (242)](https://user-images.githubusercontent.com/74709621/110247958-cbb2d100-7f7f-11eb-93d4-3eb6fd612ea3.png)
