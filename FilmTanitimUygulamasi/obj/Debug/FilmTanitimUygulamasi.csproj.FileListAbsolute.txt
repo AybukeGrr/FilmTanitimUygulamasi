@@ -1,0 +1,10 @@
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\bin\Debug\FilmTanitimUygulamasi.exe.config
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\bin\Debug\FilmTanitimUygulamasi.exe
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\bin\Debug\FilmTanitimUygulamasi.pdb
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\obj\Debug\FilmTanitimUygulamasi.csprojAssemblyReference.cache
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\obj\Debug\FilmTanitimUygulamasi.Form1.resources
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\obj\Debug\FilmTanitimUygulamasi.Properties.Resources.resources
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\obj\Debug\FilmTanitimUygulamasi.csproj.GenerateResource.cache
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\obj\Debug\FilmTanitimUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\obj\Debug\FilmTanitimUygulamasi.exe
+C:\Users\90553\Desktop\udemy\FilmTanitimUygulamasi\FilmTanitimUygulamasi\obj\Debug\FilmTanitimUygulamasi.pdb
